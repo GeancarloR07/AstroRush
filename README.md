@@ -70,5 +70,5 @@ El objetivo principal es \*\*superar tu récord de puntuación personal\*\* y so
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/GeancarloRo7/AstroRush.git](https://github.com/GeancarloRo7/AstroRush.git)
+&#x20;  git clone \https://github.com/GeancarloR07/AstroRush.git
 
